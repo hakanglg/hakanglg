@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A passionate Cross-Platform Flutter Mobile Developer</h3>
 
-- 🔭 I’m currently working on **Flutter and Swift**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter and Swift**
-
-- 👯 I’m looking to collaborate on **Projects**
 
 - 📝 I regularly write articles on [Notion](Notion)
 
