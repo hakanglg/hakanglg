@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hakan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A passionate Cross-Platform Flutter Mobile Developer</h3>
 
 - 🔭 I’m currently working on **Flutter**
@@ -39,3 +39,30 @@
 
 
 
+ -->
+ 
+ 
+ <h1 align="center">Hi 👋, I'm Hakan</h1>
+<h3 align="center">A passionate Cross-Platform Flutter Mobile Developer from Turkey</h3>
+
+- 🔭 I’m currently working on **Flutter and Swift**
+
+- 🌱 I’m currently learning **Flutter and Swift**
+
+- 👨‍💻 My website [http://hakangolge.com/](http://hakangolge.com/)
+
+- 📫 How to reach me **hakangolge@yahoo.com**
+
+- ⚡ Fun fact **Fun fact I can play metallica on guitar**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hakangolge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakangolge" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakanglg&show_icons=true&locale=en&layout=compact" alt="hakanglg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanglg&show_icons=true&locale=en" alt="hakanglg" /></p>
