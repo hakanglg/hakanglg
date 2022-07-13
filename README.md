@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">A passionate Cross-Platform Flutter Mobile Developer</h3>
+<h3 align="center">A passionate Mobile Developer</h3>
 
 - 🔭 I’m currently working on **Flutter and Kotlin**
 
